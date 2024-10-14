@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ruslan Arslanbaev.
-- 👀 I’m interested in Cloud Administration, Active Directory, Docker and Network Security.
-- 🌱 I’m currently learning Network Administration and Information Security.
+- 👀 I’m interested in Cloud Administration and Network Security.
+- 🌱 I’m currently learning Cybersecurity.
 - 📫 How to reach me: Twitter @myhollypeanuts or Linkedin https://www.linkedin.com/in/ruslan-arslanbaev-813381a4/
 
 <!---
